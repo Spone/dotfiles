@@ -49,3 +49,6 @@
 [user]
 	email = hans@spone.net
 	name = Hans Lemuet
+	signingkey = 6EABF1FFDDFA8032
+[commit]
+	gpgsign = true
